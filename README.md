@@ -224,4 +224,4 @@ iVoox is available as a full free version with all features and updates included
 Don't miss out on the ultimate audio experience! Download iVoox now and start listening to your favorite podcasts and radio programs for free!
 
 ---
-**Last updated:** 2026-10-18 06:40:22 UTC
+**Last updated:** 2026-10-18 11:47:57 UTC
